@@ -1,0 +1,1001 @@
+OrderID,Region,Sales,Profit
+O1,,N/A,300
+O2,north,N/A,300
+O1,north,N/A,300
+,South ,,-200
+O1,North,2500Rs,500
+,WEST,2500,-200
+O1,,2500Rs,300
+O1,north,,300
+O2,WEST,N/A,500
+O1,WEST,2500,
+O1,,2500,300
+,WEST,,-200
+O2,North,2500,
+O2,WEST,N/A,
+O2,WEST,2500,500
+,North,2500,500
+O1,WEST,,
+O1,North,2500,
+O1,South ,2500,300
+O2,South ,2500,500
+O2,north,N/A,N/A
+O2,north,2500,300
+O1,North,2500Rs,
+O2,South ,2500,300
+,North,N/A,-200
+O2,South ,2500Rs,300
+O2,,N/A,500
+O1,,,500
+,north,2500Rs,-200
+O2,north,N/A,N/A
+O2,,N/A,300
+O2,North,2500,N/A
+O1,WEST,2500Rs,
+O1,,2500Rs,-200
+O2,North,,N/A
+,north,2500Rs,N/A
+O1,north,2500,500
+O1,,2500,500
+O2,South ,N/A,300
+O1,north,2500Rs,-200
+O1,South ,2500Rs,-200
+O2,WEST,N/A,
+O1,north,2500,N/A
+O2,North,,300
+O1,north,2500,N/A
+,WEST,2500Rs,
+,North,N/A,-200
+O2,North,2500Rs,300
+O2,,N/A,
+O2,North,2500Rs,500
+,WEST,2500Rs,N/A
+,,N/A,-200
+,,N/A,300
+,North,2500,500
+O2,North,N/A,500
+O1,South ,,300
+O1,north,N/A,
+,north,2500,N/A
+O2,north,,-200
+,South ,N/A,
+O2,north,2500Rs,-200
+O1,North,2500Rs,-200
+O2,north,,300
+O1,North,N/A,N/A
+,South ,,300
+,north,2500Rs,N/A
+O1,North,N/A,-200
+O2,,,500
+,South ,,
+O1,North,2500Rs,500
+O2,WEST,2500,300
+,,2500Rs,N/A
+,WEST,2500Rs,500
+,,2500,500
+O2,north,2500,500
+O2,,2500,500
+,North,N/A,N/A
+,,N/A,N/A
+,South ,N/A,N/A
+,north,2500,500
+,WEST,2500,300
+,north,N/A,300
+,north,N/A,N/A
+O1,North,,500
+O2,North,2500Rs,300
+O1,north,N/A,
+O1,South ,2500,-200
+O1,South ,2500Rs,500
+O1,north,,300
+O1,,2500Rs,
+,,2500,
+,north,2500,300
+,,N/A,300
+O2,,2500,500
+,north,2500,N/A
+O1,,,N/A
+,,2500,500
+O1,North,,-200
+,North,2500Rs,-200
+O2,South ,2500,300
+O2,north,N/A,300
+O1,North,2500Rs,300
+,WEST,2500Rs,-200
+O2,WEST,2500Rs,500
+O2,South ,N/A,N/A
+O2,WEST,2500Rs,300
+O2,,2500Rs,500
+,WEST,N/A,N/A
+,,,N/A
+O2,South ,,500
+O2,,2500,-200
+,,2500Rs,300
+O2,north,2500,-200
+,north,2500Rs,
+O2,South ,N/A,300
+O1,north,,500
+O1,South ,,
+,North,,-200
+O2,WEST,N/A,-200
+O2,WEST,N/A,N/A
+O1,North,N/A,N/A
+O1,North,2500Rs,N/A
+O1,north,2500Rs,N/A
+,,2500,500
+O1,North,,300
+O2,North,,-200
+O2,north,2500Rs,
+,North,2500,N/A
+O1,WEST,2500,
+O2,north,,-200
+O2,South ,N/A,
+O2,WEST,N/A,
+O2,north,N/A,N/A
+,South ,N/A,300
+O1,north,,500
+,North,,N/A
+O1,,,N/A
+O2,north,2500,N/A
+O2,,,N/A
+,,N/A,N/A
+O1,North,N/A,
+,north,2500,N/A
+O1,,N/A,500
+O1,north,2500Rs,500
+O1,South ,N/A,N/A
+O1,,N/A,N/A
+,North,,500
+O1,WEST,N/A,500
+O1,North,2500,
+O2,WEST,N/A,
+O1,WEST,,N/A
+O1,north,2500Rs,N/A
+,north,2500Rs,N/A
+O2,WEST,N/A,-200
+O2,,N/A,300
+O1,North,2500,N/A
+O1,north,2500Rs,500
+O1,South ,2500Rs,-200
+O1,,2500Rs,N/A
+,,,300
+O1,South ,2500,-200
+,north,N/A,N/A
+O1,north,,-200
+O1,South ,,500
+O2,,2500,500
+,,,N/A
+O1,North,2500Rs,500
+,north,,
+,North,2500Rs,
+O1,North,2500,500
+,South ,N/A,500
+O1,WEST,N/A,
+O1,WEST,,N/A
+O1,South ,2500,N/A
+,North,,-200
+O1,north,N/A,-200
+O2,North,N/A,300
+,WEST,2500,500
+O1,South ,N/A,
+O1,WEST,2500,500
+O2,South ,2500,
+O1,South ,2500Rs,N/A
+,,,N/A
+,South ,2500,-200
+O1,north,2500Rs,N/A
+,North,2500Rs,N/A
+O1,WEST,,
+O2,WEST,2500,
+O1,north,2500,
+O2,South ,2500,300
+O2,WEST,2500,-200
+O2,WEST,,
+,South ,2500,500
+,North,N/A,
+O2,,,500
+O1,South ,2500,500
+O2,,N/A,
+,north,2500Rs,-200
+,North,N/A,-200
+O1,North,2500Rs,
+O1,,2500,-200
+O2,north,2500,
+,North,2500,-200
+O1,South ,2500Rs,N/A
+O1,north,2500,
+O1,,N/A,N/A
+O2,,2500,
+O2,North,2500,
+,north,N/A,N/A
+,South ,2500Rs,300
+O2,,2500Rs,N/A
+O1,WEST,2500Rs,N/A
+O1,north,,-200
+O1,South ,2500,300
+O1,WEST,,300
+,,N/A,-200
+O1,north,2500Rs,500
+O1,South ,N/A,-200
+O2,north,N/A,500
+O1,north,2500Rs,-200
+,WEST,N/A,
+O1,,2500Rs,N/A
+O1,WEST,2500Rs,500
+,North,,-200
+,north,N/A,
+O1,South ,2500,N/A
+O2,WEST,2500,500
+O2,South ,,-200
+O2,WEST,,500
+O1,WEST,N/A,
+O2,WEST,2500,500
+,north,N/A,N/A
+O1,North,2500,300
+O2,North,,
+O1,North,,-200
+,,2500,300
+O1,,,
+O1,South ,2500Rs,-200
+O2,North,2500,500
+,South ,N/A,-200
+,,2500,-200
+O2,South ,2500,300
+O2,South ,2500Rs,
+,north,2500Rs,500
+,,2500,N/A
+O1,South ,2500Rs,-200
+O1,north,,N/A
+O1,South ,,300
+O1,north,2500Rs,500
+O2,WEST,,N/A
+,WEST,N/A,300
+O2,North,2500,N/A
+,North,,300
+,,N/A,500
+O2,north,,
+,South ,2500Rs,-200
+,North,N/A,-200
+,South ,2500Rs,N/A
+O2,South ,2500Rs,N/A
+O2,,2500Rs,-200
+,,2500,-200
+O1,South ,,
+O1,North,2500,500
+O2,north,,300
+O1,,,
+O2,North,N/A,N/A
+O2,,N/A,500
+O1,WEST,2500Rs,-200
+,north,,
+,north,N/A,-200
+O2,north,2500Rs,
+O2,WEST,,
+O1,,2500Rs,500
+O1,North,,
+O2,,2500,500
+O2,WEST,,300
+O1,north,N/A,-200
+O1,South ,2500Rs,300
+O2,North,2500,N/A
+O1,,2500,
+,WEST,,-200
+O1,South ,2500Rs,-200
+O2,WEST,,
+O1,North,2500Rs,N/A
+,South ,,
+O1,South ,2500Rs,N/A
+,WEST,2500,300
+,North,,
+O1,north,,-200
+O2,north,N/A,500
+O2,,,500
+O1,North,,N/A
+O2,South ,N/A,N/A
+O1,,2500,N/A
+O1,north,2500,-200
+,South ,2500Rs,N/A
+O1,South ,2500,N/A
+,WEST,2500,-200
+O2,North,2500,300
+O2,WEST,N/A,300
+,South ,2500Rs,
+,South ,2500Rs,N/A
+,South ,2500,N/A
+,,N/A,300
+O1,North,,
+O1,South ,2500,500
+O1,South ,N/A,500
+O2,North,2500Rs,-200
+O2,,2500Rs,N/A
+O1,WEST,2500Rs,300
+O2,north,N/A,-200
+O2,North,2500Rs,-200
+O2,North,2500,500
+O1,,2500,-200
+,north,2500Rs,500
+O2,,2500,300
+O1,WEST,2500Rs,N/A
+,South ,2500,300
+O1,North,2500Rs,300
+,South ,,N/A
+O1,WEST,,-200
+O1,north,2500,500
+O2,WEST,N/A,500
+O1,,N/A,300
+O1,north,2500Rs,
+O1,South ,N/A,500
+,South ,2500,
+,North,2500Rs,500
+O2,North,2500,500
+O2,,,500
+O1,South ,N/A,N/A
+,WEST,2500,-200
+O1,north,2500Rs,500
+O1,WEST,2500,
+,South ,2500Rs,N/A
+O1,WEST,2500Rs,-200
+,North,,N/A
+,South ,2500,
+,South ,N/A,-200
+,South ,2500Rs,
+O2,,N/A,-200
+O2,north,,-200
+O2,North,,
+O2,WEST,,-200
+O1,WEST,N/A,500
+O1,north,2500Rs,500
+O2,,N/A,300
+,South ,2500Rs,-200
+O2,north,N/A,N/A
+O1,North,,N/A
+O2,north,2500,N/A
+O1,South ,N/A,500
+O2,North,,500
+,,2500,500
+O1,north,2500,300
+O2,north,2500Rs,500
+O2,,2500Rs,N/A
+O2,North,,500
+O1,north,2500Rs,N/A
+O2,North,,300
+O1,,N/A,500
+,,N/A,
+,north,,500
+O2,north,2500Rs,
+,WEST,N/A,300
+O2,north,N/A,
+O1,South ,N/A,-200
+,,,
+O1,WEST,N/A,N/A
+O1,South ,2500Rs,500
+,north,,
+,North,N/A,500
+O1,,2500Rs,
+O1,north,2500,
+O1,north,,300
+O2,,2500,-200
+O1,,2500,500
+O1,WEST,,
+,South ,2500,-200
+,WEST,2500,-200
+,WEST,N/A,300
+,North,,
+,north,N/A,N/A
+O2,north,N/A,500
+O2,WEST,2500Rs,N/A
+,South ,2500Rs,
+O2,North,N/A,500
+,,2500,500
+O2,South ,2500Rs,-200
+O2,North,2500Rs,500
+O2,WEST,N/A,500
+O1,North,N/A,N/A
+,WEST,N/A,-200
+O2,North,2500Rs,N/A
+O2,north,N/A,-200
+O1,South ,N/A,300
+O1,WEST,2500Rs,300
+O1,WEST,,-200
+O1,north,,500
+O2,,N/A,
+,north,2500,
+O2,WEST,2500Rs,N/A
+O2,South ,,300
+,South ,2500Rs,N/A
+,WEST,2500Rs,-200
+,South ,2500,300
+O1,,N/A,300
+O2,WEST,2500Rs,300
+O1,WEST,2500Rs,300
+,North,N/A,300
+O2,North,2500,N/A
+O2,North,2500,-200
+O2,WEST,2500Rs,
+,North,N/A,
+O2,,N/A,
+O2,South ,,N/A
+,WEST,,N/A
+O2,North,,
+O2,,,300
+,North,2500Rs,300
+O1,north,,500
+,South ,2500Rs,N/A
+O2,WEST,2500Rs,
+O1,North,,N/A
+,,N/A,300
+O2,North,,500
+O1,South ,2500Rs,300
+O2,north,2500Rs,500
+,North,2500Rs,-200
+O1,South ,2500Rs,-200
+,South ,,500
+O1,north,,
+,North,2500Rs,500
+O1,,2500Rs,500
+,South ,2500Rs,N/A
+,WEST,N/A,300
+O2,north,N/A,500
+O2,WEST,,300
+,WEST,N/A,N/A
+O1,north,2500,300
+O2,WEST,2500,
+O2,South ,2500,-200
+,north,,500
+,South ,,-200
+O2,,N/A,N/A
+O1,,N/A,300
+O1,,N/A,300
+,,2500Rs,
+O2,WEST,,-200
+O1,,2500Rs,N/A
+O2,North,2500,-200
+O2,,,500
+O2,North,,500
+O2,South ,2500Rs,500
+,WEST,2500Rs,N/A
+O2,South ,N/A,
+,North,2500,N/A
+,North,2500Rs,300
+O2,WEST,,
+,North,N/A,N/A
+O2,South ,2500,300
+O2,,2500Rs,-200
+O1,North,N/A,-200
+O1,South ,,
+,north,2500Rs,500
+O1,north,N/A,
+O1,WEST,2500,300
+,WEST,2500,300
+,WEST,2500,300
+,WEST,2500Rs,500
+O2,North,2500Rs,N/A
+O1,,2500,500
+O2,North,2500,N/A
+,North,,300
+O1,WEST,N/A,300
+O1,South ,2500,300
+O1,North,N/A,
+O2,north,,300
+O1,North,2500Rs,-200
+O1,WEST,N/A,-200
+,WEST,2500,-200
+,North,2500Rs,500
+O2,North,2500,N/A
+O2,North,2500,
+O1,,N/A,
+O2,,N/A,-200
+,north,,300
+O2,South ,,
+O2,South ,N/A,300
+O2,South ,,
+,,N/A,-200
+,north,2500Rs,
+O1,North,2500Rs,-200
+O1,,2500Rs,300
+,,2500,N/A
+O2,north,2500Rs,
+O2,,2500,-200
+,,,500
+,South ,2500Rs,-200
+O1,WEST,2500Rs,300
+,WEST,2500,500
+O2,North,2500Rs,500
+O2,South ,2500,N/A
+O1,,2500,300
+O2,,,-200
+O1,,N/A,N/A
+O2,South ,N/A,-200
+O1,South ,N/A,N/A
+,WEST,,
+O1,South ,N/A,N/A
+O1,South ,2500Rs,N/A
+O1,North,2500Rs,300
+O1,North,N/A,-200
+O1,north,2500Rs,-200
+O2,WEST,2500Rs,
+O1,North,N/A,
+O2,north,2500,N/A
+O2,north,,300
+O2,WEST,2500,300
+O2,South ,2500,500
+O2,north,2500Rs,300
+,North,,
+,,2500,-200
+O2,,2500,-200
+O1,WEST,,-200
+O1,South ,2500,500
+,north,,500
+O1,,2500,-200
+O2,,N/A,
+,north,2500Rs,500
+,North,2500,300
+,North,2500,N/A
+O1,,2500,
+O1,North,N/A,300
+O2,South ,N/A,300
+,North,,-200
+O2,,2500,N/A
+O2,South ,,300
+,South ,2500,-200
+,north,2500Rs,500
+,WEST,2500Rs,
+O1,WEST,,300
+,North,2500Rs,500
+,,,N/A
+O1,South ,2500Rs,-200
+,north,,
+O2,,,-200
+O2,,N/A,-200
+,north,N/A,500
+O2,north,,-200
+,WEST,2500Rs,N/A
+O1,North,,-200
+O1,WEST,2500Rs,500
+O2,north,,500
+,,,300
+O1,North,N/A,
+,north,,N/A
+,South ,2500Rs,
+O2,North,,300
+,north,,-200
+,North,2500Rs,
+O2,South ,,
+O2,South ,N/A,N/A
+O1,north,2500,N/A
+,WEST,2500Rs,-200
+O2,South ,,300
+O1,,N/A,-200
+O1,north,N/A,N/A
+,South ,2500,-200
+,North,2500Rs,
+O1,South ,2500Rs,300
+O2,North,,300
+,north,N/A,N/A
+O1,South ,,300
+O1,,2500Rs,500
+,WEST,,500
+,,2500,
+O1,South ,2500,300
+,north,2500,300
+O1,South ,2500Rs,-200
+,WEST,2500,300
+O2,,2500Rs,
+,WEST,N/A,N/A
+O2,,2500Rs,500
+,WEST,,500
+O1,WEST,2500Rs,N/A
+,North,N/A,300
+O1,North,,
+O2,north,2500Rs,500
+O2,North,2500,-200
+O2,North,2500,
+O2,North,N/A,N/A
+O2,north,2500,-200
+O1,north,N/A,
+O1,,2500,N/A
+O2,,2500,N/A
+O2,South ,N/A,500
+O2,WEST,,300
+,WEST,,N/A
+O2,North,2500,500
+O1,north,2500,500
+O2,WEST,N/A,
+O2,north,,N/A
+O1,South ,2500Rs,
+O2,,2500Rs,-200
+O2,South ,N/A,300
+,North,2500Rs,-200
+O1,South ,N/A,
+O2,WEST,2500,500
+O2,,2500,
+,north,,N/A
+O1,North,N/A,N/A
+O1,North,2500,500
+O1,South ,,
+,North,,300
+O2,WEST,N/A,
+,,2500Rs,
+O2,WEST,2500,300
+,WEST,2500,-200
+O2,WEST,2500Rs,300
+,North,2500,N/A
+O2,WEST,N/A,500
+O2,North,2500,-200
+O1,north,,
+,,N/A,300
+,,,-200
+O1,North,2500,-200
+O1,north,N/A,
+,North,N/A,300
+O2,North,,300
+O2,WEST,N/A,500
+O1,,2500,
+O2,north,2500,
+O1,north,2500,300
+O2,,,300
+O1,South ,2500Rs,N/A
+O1,WEST,2500Rs,300
+O2,WEST,,500
+O2,South ,2500,
+O2,WEST,N/A,500
+O1,WEST,2500Rs,
+,North,,-200
+,north,2500,500
+O2,,,
+O1,,,-200
+O2,north,,N/A
+,North,2500Rs,500
+,north,,N/A
+,,2500Rs,-200
+,,2500,
+O2,north,,-200
+,South ,2500Rs,N/A
+O1,South ,N/A,N/A
+O2,WEST,N/A,500
+O2,,2500,500
+O2,North,2500,500
+,north,N/A,500
+O2,North,N/A,N/A
+O1,South ,2500,N/A
+O2,north,2500Rs,N/A
+O1,South ,,500
+,North,N/A,300
+O2,north,2500Rs,500
+O1,WEST,N/A,
+,North,2500Rs,500
+O1,South ,,500
+O1,,2500Rs,300
+O1,north,2500Rs,-200
+,north,2500Rs,N/A
+O2,north,N/A,500
+,North,N/A,300
+O1,South ,2500,500
+O2,North,N/A,300
+O1,South ,N/A,N/A
+,north,N/A,300
+O1,South ,N/A,300
+O1,WEST,,N/A
+O1,WEST,2500Rs,N/A
+O1,WEST,2500,500
+O2,South ,2500Rs,500
+O2,north,2500,
+O1,WEST,N/A,N/A
+,north,,N/A
+O1,North,N/A,300
+O1,North,2500,500
+O1,South ,,-200
+O2,north,,500
+O1,South ,2500,300
+O2,,2500,500
+O1,,2500Rs,
+O1,South ,2500Rs,
+O2,North,2500Rs,-200
+O2,north,N/A,N/A
+O2,,N/A,300
+O1,,N/A,500
+O2,South ,2500Rs,500
+,,N/A,N/A
+,north,2500Rs,-200
+O2,,,N/A
+,North,N/A,
+O2,,N/A,500
+,north,N/A,
+,,,-200
+O1,north,,
+,North,2500,300
+O1,north,,500
+O1,South ,N/A,-200
+O2,,2500Rs,N/A
+,North,2500Rs,300
+O1,,2500,300
+,,N/A,-200
+O2,North,N/A,
+O1,,N/A,-200
+,,2500Rs,
+O2,,N/A,500
+,WEST,2500,-200
+O2,WEST,,-200
+O2,,N/A,500
+,North,N/A,500
+O2,north,N/A,-200
+,North,2500Rs,N/A
+O2,WEST,,
+O2,WEST,2500,N/A
+O2,north,N/A,500
+,North,N/A,
+O2,north,2500,N/A
+O1,WEST,,N/A
+,WEST,2500Rs,300
+O1,South ,2500Rs,-200
+,,2500,500
+O1,WEST,2500,300
+O2,North,,
+,,2500Rs,N/A
+O1,,,500
+O2,North,N/A,-200
+,,,N/A
+O2,north,2500Rs,500
+O2,north,2500,300
+O1,,N/A,300
+O2,North,N/A,
+,,N/A,N/A
+O2,north,2500Rs,500
+O1,WEST,2500,300
+O1,North,2500Rs,N/A
+O1,South ,N/A,-200
+O1,South ,2500,500
+,WEST,,
+,,2500,500
+O1,WEST,2500Rs,N/A
+O1,South ,N/A,N/A
+,north,2500Rs,300
+,WEST,2500Rs,
+O1,South ,2500Rs,-200
+O2,South ,2500,N/A
+O2,north,2500Rs,300
+O2,,N/A,500
+,WEST,2500,500
+O1,WEST,N/A,-200
+O2,,2500Rs,-200
+O2,,2500,N/A
+O1,North,,-200
+,,2500,
+O1,north,2500Rs,
+O2,north,2500,-200
+,WEST,N/A,
+O2,North,2500Rs,-200
+O2,North,2500,300
+O2,,2500,N/A
+O2,North,2500,300
+O2,north,2500,300
+O2,North,2500,-200
+O2,,N/A,300
+,North,,300
+,,N/A,
+,north,2500Rs,500
+O2,,,N/A
+O1,North,,500
+O2,,2500,
+O2,,,500
+,South ,2500Rs,300
+,South ,,-200
+,North,N/A,
+O2,North,2500Rs,N/A
+O1,North,N/A,-200
+,North,2500,300
+O2,WEST,,
+,South ,2500,-200
+O2,WEST,2500Rs,-200
+,North,,500
+O1,South ,2500Rs,-200
+O2,North,N/A,300
+O1,South ,2500,-200
+O2,South ,2500Rs,
+,WEST,N/A,N/A
+O1,,N/A,-200
+,north,N/A,
+O1,North,2500Rs,
+,North,,500
+O1,north,2500,-200
+O2,,2500,
+,South ,,500
+O2,North,2500Rs,-200
+O2,north,2500Rs,300
+O1,WEST,N/A,500
+,North,2500,
+,,N/A,-200
+O1,,N/A,-200
+,North,N/A,500
+O1,,2500,500
+,WEST,2500,N/A
+O2,South ,N/A,300
+O2,North,2500,N/A
+,WEST,,500
+O2,WEST,N/A,300
+O2,,2500,500
+O2,north,2500Rs,-200
+O2,north,,500
+,,,300
+O1,WEST,N/A,500
+,North,,
+,North,,
+O1,WEST,,N/A
+O1,North,2500Rs,-200
+O1,South ,N/A,-200
+O2,North,N/A,N/A
+O2,South ,,
+,north,,-200
+O2,WEST,2500Rs,
+O2,South ,2500Rs,500
+O2,north,,N/A
+O2,South ,,
+,North,2500Rs,500
+,South ,,N/A
+O1,WEST,2500Rs,-200
+O1,north,2500,N/A
+O2,North,N/A,500
+O2,WEST,,
+O2,North,2500,300
+,North,N/A,N/A
+O2,WEST,2500,
+O2,,,-200
+,North,2500Rs,500
+O2,North,2500,-200
+O1,WEST,,500
+O1,WEST,2500,500
+O1,North,,500
+O2,South ,2500,-200
+,South ,,N/A
+,WEST,2500,300
+O2,North,N/A,500
+O1,WEST,,N/A
+O1,North,N/A,N/A
+O1,north,N/A,-200
+O1,North,2500Rs,N/A
+,North,,N/A
+O1,North,2500,500
+O2,,2500Rs,
+,north,,300
+O1,South ,2500,-200
+O2,north,2500,500
+,South ,N/A,500
+O1,South ,N/A,N/A
+O1,north,N/A,300
+,North,2500,500
+O1,,N/A,
+O1,north,,
+O2,South ,N/A,300
+,north,2500,N/A
+O1,north,2500Rs,
+,South ,2500,-200
+,,2500,
+O2,South ,2500,500
+O2,South ,N/A,500
+O1,,,-200
+,WEST,2500,N/A
+,north,N/A,N/A
+O1,North,2500,N/A
+O2,north,,
+O2,north,2500Rs,
+O1,North,2500Rs,500
+O2,North,,-200
+,,,N/A
+O1,WEST,2500,-200
+O1,South ,N/A,500
+,North,N/A,500
+O1,north,2500Rs,-200
+O1,North,2500,500
+O2,South ,2500,300
+,South ,2500,N/A
+O2,South ,,N/A
+O1,South ,2500Rs,N/A
+O2,North,,N/A
+O2,WEST,2500Rs,-200
+O2,north,N/A,
+,WEST,2500,
+O2,,2500Rs,-200
+O1,,N/A,300
+,,,-200
+O1,,,-200
+O2,WEST,N/A,
+,WEST,,N/A
+,,2500Rs,N/A
+O2,South ,2500,
+,North,N/A,
+O1,South ,N/A,300
+O2,South ,,-200
+O1,,2500,300
+O2,North,2500,
+O2,North,,N/A
+,north,,-200
+O2,,N/A,-200
+O2,South ,2500Rs,N/A
+,North,,
+O2,North,2500,N/A
+O2,north,2500Rs,
+O2,North,N/A,N/A
+O2,WEST,2500,300
+O1,north,2500,500
+O1,,2500Rs,-200
+O2,South ,N/A,500
+,WEST,2500Rs,-200
+,,2500,
+,north,N/A,300
+,WEST,2500,N/A
+O2,North,,
+O1,north,,300
+O1,,2500Rs,-200
+O1,South ,N/A,
+O1,north,2500,300
+,,N/A,-200
+O1,WEST,,500
+O1,,N/A,N/A
+,North,2500,300
+O1,,2500Rs,N/A
+O2,,,500
+O2,,,500
+O1,,2500Rs,N/A
+O1,,2500,N/A
+O1,North,N/A,-200
+O1,,2500,-200
+O2,north,2500,300
+,,N/A,500
+O1,North,2500,
+O1,South ,2500Rs,-200
+O1,WEST,,500
+O2,South ,2500Rs,500
+,north,,300
+,,2500,500
+,north,N/A,300
+O1,WEST,,-200
+O2,North,,
+O1,North,2500Rs,300
+,,,
+O2,north,,N/A
+,,N/A,N/A
+O2,north,N/A,-200
+O2,,,500
+O2,South ,2500Rs,300
+O1,WEST,2500Rs,-200
+O1,WEST,2500,
+O2,WEST,N/A,N/A
+,,2500Rs,300
+O2,north,,N/A
+O2,north,,300
+O1,South ,2500Rs,300
+,WEST,,
+O2,North,2500,500
+O1,north,N/A,300
+,,N/A,500
+O1,north,2500Rs,-200
+O2,WEST,N/A,-200
+,North,2500Rs,300
+O1,North,2500,500
+,South ,2500,-200
+,,,
+O1,South ,,500
+O2,north,N/A,
+O2,,2500,-200
+O2,North,2500,N/A
+O2,,2500,-200
+O1,North,,-200
+O1,,,300
+O1,North,,500
+O2,WEST,2500Rs,300
+,north,N/A,-200
+O2,South ,,300
+O1,South ,2500,300
+O2,North,2500,300
+,,N/A,300
+,South ,2500Rs,N/A
+O2,,,
+O1,north,2500,
+,,N/A,N/A
+O2,South ,2500Rs,N/A
+O2,WEST,2500,
+O2,North,N/A,N/A
+O2,WEST,N/A,N/A
+O1,north,N/A,500
+O1,North,N/A,500
+,,2500Rs,-200
