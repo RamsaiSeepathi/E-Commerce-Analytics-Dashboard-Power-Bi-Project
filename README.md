@@ -6,9 +6,9 @@ This repository contains an interactive E-Commerce Analytics Dashboard developed
 
 ## Files Included
 
-* `Ecommerce_Dataset.csv` – Source dataset
-* `Dashboard_Screenshot.jpeg` – Dashboard preview image
-* `README.md` – Project documentation
+* `Ecommerce_Dataset
+* `Dashboard_Screensho
+* `Project documentation
 
 ## Features
 
@@ -41,4 +41,4 @@ This repository contains an interactive E-Commerce Analytics Dashboard developed
 * Business Intelligence Reporting
 
 ## Project Link
-
+https://github.com/RamsaiSeepathi/E-Commerce-Analytics-Dashboard-Power-Bi-Project.git
