@@ -7,7 +7,7 @@ This repository contains an interactive E-Commerce Analytics Dashboard developed
 ## Files Included
 
 * `Ecommerce_Dataset
-* `Dashboard_Screensho
+* `Dashboard_Screenshot
 * `Project documentation
 
 ## Features
