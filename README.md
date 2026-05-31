@@ -28,10 +28,6 @@ This repository contains an interactive E-Commerce Analytics Dashboard developed
 * Data Modeling
 * Data Visualization
 
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
-
 ## Learning Outcomes
 
 * Data Cleaning and Transformation
